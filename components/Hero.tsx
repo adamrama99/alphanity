@@ -37,7 +37,7 @@ const Hero = () => {
                         words='Transforming Idea Into Reality With Modern And Secure Technology'
                     />
 
-                    <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'> Hi, I&apos;M Haikal, a Fullstack Multi Platform Developer based in Indonesia.</p>
+                    <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'> Hi, We are Alphanity, a Fullstack Multi Platform Developer team based in Indonesia.</p>
 
                     <a href="#about">
                         <MagicButton

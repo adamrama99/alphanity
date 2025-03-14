@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
     {
         id: 1,
-        title: "I prioritize client collaboration, fostering open communication ",
+        title: "We prioritize client collaboration, fostering open communication ",
         description: "",
         className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
         imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const gridItems = [
     },
     {
         id: 2,
-        title: "I'm very flexible with time zone communications",
+        title: "We are very flexible with time zone communications",
         description: "",
         className: "lg:col-span-2 md:col-span-3 md:row-span-2",
         imgClassName: "",
@@ -28,8 +28,8 @@ export const gridItems = [
     },
     {
         id: 3,
-        title: "My tech stack",
-        description: "I constantly try to improve",
+        title: "Our tech stack",
+        description: "We constantly try to improve",
         className: "lg:col-span-2 md:col-span-3 md:row-span-2",
         imgClassName: "",
         titleClassName: "justify-center",
@@ -133,6 +133,22 @@ export const projects = [
         img: "/project/cinebuy.png",
         iconLists: ["/dart.svg", "/flutter.svg"],
         link: "https://github.com/GrimsAlphaDev/mini_project_m_haikal_as_cinebuy",
+    },
+    {
+        id: 9,
+        title: "Respiquiz",
+        des: "A dynamic quiz application that displays multiple-choice questions, allows users to navigate through them, and updates content seamlessly using AJAX.",
+        img: "http://respiquiz.wuaze.com/assets/respina-logo-only.png",
+        iconLists: ["/dart.svg", "/flutter.svg"],
+        link: "http://respiquiz.wuaze.com/",
+    },
+    {
+        id: 10,
+        title: "CMW Attendance management",
+        des: "An app designed to simplify attendance and employee record management, making it easier to organize and access important data effortlessly..",
+        img: "https://cmw-rekap.sytes.net/assets/logocmw.webp",
+        iconLists: ["/dart.svg", "/flutter.svg"],
+        link: "https://cmw-rekap.sytes.net/attendances",
     },
 ];
 
