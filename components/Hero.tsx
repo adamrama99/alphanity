@@ -29,7 +29,7 @@ const Hero = () => {
                         visible: { opacity: 1, x: 0 }
                     }}>
                     <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>
-                        Welcome To My Portfolio
+                        Welcome To Our Portfolio
                     </h2>
 
                     <TextGenerateEffect
@@ -41,7 +41,7 @@ const Hero = () => {
 
                     <a href="#about">
                         <MagicButton
-                            title="Show my Work"
+                            title="Show Our Work"
                             icon={<FaLocationArrow />}
                             position='right'
                         />
